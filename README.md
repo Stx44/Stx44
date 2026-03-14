@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is João and I am currently studying systems development at ETEC.</p>
+<p align="left">My name is João and I am currently studying computer science at Cruzeiro do SUl</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Like</h2>
 
 ###
 
