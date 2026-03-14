@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João and I am currently studying computer science at Cruzeiro do SUl</p>
+<p align="left">My name is João and I am currently studying computer science at Cruzeiro do Sul</p>
 
 ###
 
